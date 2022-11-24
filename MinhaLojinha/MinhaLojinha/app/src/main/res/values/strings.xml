@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">MinhaLojinha</string>
+
+    //strings da tela de login
+    <string name="content_description">Imagem</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Senha</string>
+    <string name="lbl_forgot_password">Esqueci minha senha?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Não tem uma conta?</string>
+    <string name="register"><u>Registrar</u></string>
+
+    //strings de tela de register
+    <string name="create_an_account">CRIAR UMA CONTA</string>
+
+    <string name="hint_last_name">Sobrenome</string>
+    <string name="hint_first_name">Primeiro Nome</string>
+    <string name="et_hint_confirm_password">Confirma Senha</string>
+
+    <string name="i_agree_to_the_terms_and_condition">Eu aceito criar minha conta</string>
+    <string name="btn_lbl_register">Registrar</string>
+
+    <string name="already_have_an_account">Já tem uma conta?</string>
+    <string name="login"><u>Login</u></string>
+
+    //error messages da tela de register
+    <string name="err_msg_enter_first_name">Por favor insira seu nome.</string>
+    <string name="err_msg_enter_last_name">Por favor insira seu sobrenome.</string>
+    <string name="err_msg_enter_email">Por favor insira um email.</string>
+    <string name="err_msg_enter_password">Por favor insira uma senha.</string>
+    <string name="err_msg_enter_confirm_password">Por favor insira a senha de confirmação.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Senhas não correspondem.</string>
+    <string name="err_msg_agree_terms_and_condition">Por favor aceite a criação.</string>
+
+    //dialog progress
+    <string name="please_wait">Por favor espere&#8230;</string>
+
+    <string name="register_success">Você foi registrado com sucesso.</string>
+
+    //tela de user profile
+    <string name="title_complete_profile">PERFIL</string>
+    <string name="et_hint_mobile_number">Numero de telefone</string>
+
+    <string name="rb_lbl_male">HOMEM</string>
+    <string name="rb_lbl_female">MULHER</string>
+    <string name="btn_lbl_save">Salvar</string>
+
+    <string name="read_storage_permission_denied">Oops, você negou acesso ao storage. Você pode permitir pelos settings do seu celular.</string>
+    <string name="image_selection_failed">Seleção de imagem falhou!</string>
+
+    <string name="err_msg_enter_mobile_number">Por favor insira um número de telefone.</string>
+
+    <string name="msg_profile_update_success">Seu perfil foi atualizado com sucesso.</string>
+
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_products">Vinhos</string>
+
+    <string name="please_click_back_again_to_exit">Por favor clique novamente para sair.</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="title_settings">CONFIGURAÇÕES</string>
+    <string name="lbl_edit">Editar</string>
+    <string name="btn_lbl_logout">Logout</string>
+
+
+    <string name="btn_lbl_submit">Enviar</string>
+
+    <string name="title_edit_profile">EDITAR PERFIL</string>
+
+    <string name="action_add_product">Add Vinho</string>
+
+    // add product activity screen
+    <string name="title_add_product">ADD VINHO</string>
+    <string name="et_hint_product_title">Nome do Vinho</string>
+    <string name="et_hint_product_price">Preço do Vinho (R$)</string>
+    <string name="et_hint_product_description">Seu review do Vinho</string>
+    <string name="et_hint_product_quantity">Nota do Vinho</string>
+
+    <string name="err_msg_select_product_image">Por favor selecione a imagem do Vinho.</string>
+    <string name="err_msg_enter_product_title">Por favor insira o nome do Vinho.</string>
+    <string name="err_msg_enter_product_price">Por favor insira o preço do Vinho.</string>
+    <string name="err_msg_enter_product_description">Por favor insira o seu review do Vinho.</string>
+    <string name="err_msg_enter_product_quantity">Por favor insira a nota do Vinho.</string>
+
+    <string name="product_uploaded_success_message">Seu Vinho foi cadastrado com sucesso.</string>
+    <string name="no_products_added_yet">Sem Vinhos adicionados ainda!</string>
+    <string name="no_dashboard_item_found">Sem itens!</string>
+
+    <string name="product_delete_success_message">Seu Vinho foi deletado com sucesso.</string>
+    <string name="delete_dialog_title">Deletar</string>
+    <string name="delete_dialog_message">Você tem certeza que deseja deletar esse Vinho?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    // product details screen
+    <string name="title_product_details">DETALHES DO VINHO</string>
+    <string name="lbl_product_description">Review do Vinho</string>
+    <string name="lbl_product_details_nota">Nota do Vinho</string>
+
+</resources>
